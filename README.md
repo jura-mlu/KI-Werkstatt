@@ -41,4 +41,4 @@ Die Prompts dokumentieren den Stand der Veranstaltung. Sprachmodelle und ihre Fu
 
 Alle Materialien in diesem Repository stehen unter der Lizenz [CC BY 4.0](LICENSE) (Creative Commons Namensnennung 4.0 International).
 
-**Namensnennung:** Marcus Bergmann, Claus Gienke, Frederic Stephan, Mika Westphahl – KI-Werkstatt, Martin-Luther-Universität Halle-Wittenberg.
+**Namensnennung:** Dr. Marcus Bergmann, Dr. Claus Gienke, Dr. Frederic Stephan, Mika Westphahl – KI-Werkstatt, Martin-Luther-Universität Halle-Wittenberg.
